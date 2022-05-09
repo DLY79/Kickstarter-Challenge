@@ -31,5 +31,5 @@ This data tells us how the projects performed without any weight given to the qu
 
 - What are some other possible tables and/or graphs that we could create?
 Additional tables we could create are:
-    a)Outcome based on Country.  Are contributors more likely to back projects based on country of origin? Are they more likely to avoid projects on the same basis? To visualize this data, I would use a stacked bar graph, with countries on the X-Axis and total outcomes on the y.
-    b)Outcome vs Length of Time Campaign is Active.  There is an assumption that the longer a campaign is active, the greater visibility it has and therefore the more likely it is to be successful.  A line chart with length of days active on the x-axis and number of outcomes on the y axis would help us visualize if there is a strong or slight correlation.
+-    a)Outcome based on Country.  Are contributors more likely to back projects based on country of origin? Are they more likely to avoid projects on the same basis? To visualize this data, I would use a stacked bar graph, with countries on the X-Axis and total outcomes on the y.
+-    b)Outcome vs Length of Time Campaign is Active.  There is an assumption that the longer a campaign is active, the greater visibility it has and therefore the more likely it is to be successful.  A line chart with length of days active on the x-axis and number of outcomes on the y axis would help us visualize if there is a strong or slight correlation.
