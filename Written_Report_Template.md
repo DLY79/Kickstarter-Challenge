@@ -10,7 +10,7 @@ Louise's Kickstarter campaign in support of her play, Fever, is performing well 
 
 ### Analysis of Outcomes Based on Launch Date
 Our first task was to look at the outcomes of Kickstarter campaigns based on the month they were launched. Using a PivotTable, we were able to sort through the data to highlight only the number of successful, failed, and canceled, broken down by month.  From here, a line chart was created to visualize the data.
-![theateroutcomesbylaunchdate]()
+![theateroutcomesbylaunchdate](Resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
