@@ -9,10 +9,10 @@ Louise's Kickstarter campaign in support of her play, Fever, is performing well 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
--Our first task was to look at the outcomes of Kickstarter campaigns based on the month they were launched. Using a PivotTable, we were able to sort through the data to highlight only the number of successful, failed, and canceled, broken down by month.  From here, a line chart was created to visualize the data.
+Our first task was to look at the outcomes of Kickstarter campaigns based on the month they were launched. Using a PivotTable, we were able to sort through the data to highlight only the number of successful, failed, and canceled, broken down by month.  From here, a line chart was created to visualize the data.
 ![theateroutcomesbylaunchdate](Resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
--Our second task was to analyse the outcomes of campaigns, categorized by their fund-raising goal. We are trying to determine if there is a relationship between the size of the goal and whether it was successful or not. Using IFCOUNTS formula, we were able to easily pull the relevant data out of the larger population. We created another line chart to visualize the data:
+Our second task was to analyse the outcomes of campaigns, categorized by their fund-raising goal. We are trying to determine if there is a relationship between the size of the goal and whether it was successful or not. Using IFCOUNTS formula, we were able to easily pull the relevant data out of the larger population. We created another line chart to visualize the data:
 ![Outcomes-vs-goals](Resources/Outcomes_vs_goals.png)
 ### Challenges and Difficulties Encountered
 Working with large data sets without having a complete understanding of what you are looking for and what the result will be makes it easier to overlook a formuation error.  
