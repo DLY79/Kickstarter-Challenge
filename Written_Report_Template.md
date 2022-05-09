@@ -12,7 +12,8 @@ Louise's Kickstarter campaign in support of her play, Fever, is performing well 
 Our first task was to look at the outcomes of Kickstarter campaigns based on the month they were launched. Using a PivotTable, we were able to sort through the data to highlight only the number of successful, failed, and canceled, broken down by month.  From here, a line chart was created to visualize the data.
 ![theateroutcomesbylaunchdate](Resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
-
+Our second task was to analyse the outcomes of campaigns, categorized by their fund-raising goal. We are trying to determine if there is a relationship between the size of the goal and whether it was successful or not. Using IFCOUNTS formula, we were able to easily pull the relevant data out of the larger population. We created another line chart to visualize the data:
+![Outcomes-vs-goals]
 ### Challenges and Difficulties Encountered
 
 ## Results
